@@ -258,9 +258,9 @@ main > section{
 #more-flex div{
     /* Use flexbox to adjust the display of this div. The items should be allowed to wrap, they should be center justified, and should have a gap of 1rem */
 	display: flex;
-   flex-wrap: wrap;
-   justify-content: center;
-   gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
 }
 
 #more-flex svg{
@@ -318,7 +318,6 @@ button:focus{
 	display: flex;
     justify-content: center;
     align-items: center;
-
 }
 
 #box1{
